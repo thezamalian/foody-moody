@@ -34,8 +34,9 @@ h1 {
     color: white;
     background-color: red;
     font-weight: 700;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 15px 25px;
+    background-image: linear-gradient(orange, red);
 }
 .one-third {
     width: 33%;
